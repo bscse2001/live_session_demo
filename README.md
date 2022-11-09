@@ -1,5 +1,4 @@
-# Forking this repo
-- Fork this repository from github and create a forked repository for your own. 
+# Forking this repo- Fork this repository from github and create a forked repository for your own. 
   - Click the fork button at the top right of this site
   - Select the owner for the forked repository
   - Optional: If you want to change the forked repository name if can change it as well
@@ -18,9 +17,8 @@ git config --global user.name "your name"
 
 - Clone the repository
 ```
-git clone https://github.com/your_github_username/live_session_demo.git
-```
-- Change directory to the repository
+git clone https://github.com/your_username/live_session_demo.git
+```- Change directory to the repository
 ```
 cd live_session_demo
 ```
